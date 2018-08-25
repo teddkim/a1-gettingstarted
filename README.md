@@ -18,7 +18,7 @@ Assignment details
 
 Do the following to complete this assignment:
 
-1. Fork the starting project code. **DO NOT FORK THE REPO and DO NOT MAKE IT PUBLIC.** This repo contains:
+1. Fork the starting project code. This repo contains:
     * the server code, `server.js`
     * the `Procfile` that you need for Heroku deployment
     * A starting `index.html` file that you will edit as described below
